@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
+I am currently a fourth year Biomedical Engineering Undergraduate in the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
 
-* A list item
-* Another list item
+My academic interests lie within Machine Learning, MRI and Neuroscience. In addition, I have worked with Bio-signals and Electronics.
