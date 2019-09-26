@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /miscellaneous/
 ---
 
 I come from Galle, a town in southern Sri Lanka. Here‘s a video of our beautiful town. It is renowned for its great beaches, sea food and Dutch Fort.
