@@ -1,0 +1,15 @@
+# Site Settings
+title: Ashwin de Silva
+email: ashwindesilva96@ieee.org
+description: >
+  Undergraduate. Researcher. Engineer.
+baseurl: ""
+url: "https://laknath1996.github.io/"
+twitter_username: AshwindeSilva1
+github_username:  Laknath1996
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
