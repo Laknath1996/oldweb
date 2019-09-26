@@ -1,5 +1,4 @@
 # Site Settings
-theme: jekyll-theme-cayman
 title: Ashwin de Silva
 email: ashwindesilva96@ieee.org
 description: >
@@ -14,3 +13,4 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+theme: jekyll-theme-cayman
