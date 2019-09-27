@@ -13,7 +13,9 @@ h3 {
 	color: $heading-font-color;
 	font-family: $heading-font;
 	line-height: 1.5;
-	display: inline-block
+}
+h1, h3{
+	display: inline-block;
 }
 h1 {
 	color: $main;
