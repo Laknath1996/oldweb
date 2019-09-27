@@ -1,10 +1,10 @@
 # Site Settings
 title: Ashwin de Silva
-subtitle: Undergraduate. Researcher. Engineer
+subtitle: "Undergraduate. Researcher. Engineer"
 email: ashwindesilva96@ieee.org
 description: >
   Undergraduate. Researcher. Engineer.
-baseurl: ""
+baseurl: "/about"
 url: "https://laknath1996.github.io/"
 twitter_username: AshwindeSilva1
 github_username:  Laknath1996
