@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+> An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to invent novel technology which will be beneficial to the human race and environment
+
 I am currently a fourth year Biomedical Engineering Undergraduate in the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
 
 In addition to my undergraduate studies in Moratuwa, I have completed two research internships (in 2017 and 2018) under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://mechanical.eng.unimelb.edu.au/people/saman) at The Florey Institute of Neuroscience, University of Melbourne, Australia. 
