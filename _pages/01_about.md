@@ -6,7 +6,7 @@ permalink: /about/
 
 *An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to invent novel technology which will be beneficial to the human race and environment*
 
-<img src="{{site.url}}/images/me.png" width="200" height="200" />
+<div style="text-align: center"><img src="{{site.url}}/images/me.png" width="200" height="200" /></div>
 
 I am currently a fourth year Biomedical Engineering Undergraduate in the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
 
