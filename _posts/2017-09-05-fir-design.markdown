@@ -16,6 +16,5 @@ Code    :   [[Verilog Code]](https://github.com/Laknath1996/FIR---Filter-Design)
 
 Grade   :   4.2/4.2
 
-Supervisor(s)   :   Dr. Thayaparan, Mr. Ravi Tharaka Wijesekara
-
+Supervisor(s)   :   Dr. Chamira Edussooriya
 
