@@ -1,0 +1,21 @@
+---
+layout: post
+title:  UART Implementation on FPGA
+date:   2017-08-18 00:10:45
+categories: Course Project
+excerpt_separator: <!--more-->
+---
+The Universal Asynchronous Receiver -Transmitter (UART) is a hardware device utilized for asynchronous serial communication between electronic devices.
+<!--more-->
+
+ It obtains each byte (8 parallel bits) of data and converts it into a series of bits which are transmitted in a sequential manner. The objective was to implement a UART using a Field Programmable Gate Array (FPGA) and achieve half -duplex communication between two such UARTs. The device was tested using the test bench and the timing diagrams were obtained successfully. 
+
+Report  :   [[Report]](https://drive.google.com/open?id=1B2VdhRYb2-ka-2hJpOx894vmVVePWkgn)
+
+Code    :   [[Verilog Code]](https://github.com/Laknath1996/UART-Implementation-on-FPGA/tree/master)
+
+Grade   :   4.2/4.2
+
+Supervisor(s)   :   Dr. Thayaparan, Mr. Ravi Tharaka Wijesekara
+
+
