@@ -16,6 +16,8 @@ permalink: /projects/
 
 <h3>Course Projects</h3>
 
+* Simulating wavefunctions within various 1D, 2D and 3D Potential Wells using Schrödinger's Wave Equation
+
 * [Custom Processor implemented on FPGA for Image Downsampling](https://laknath1996.github.io/course/project/2018/05/25/processor-design.html)
 
 * [Computer Interfaced Non Invasive Photo-Plethysmographic Heart Rate Monitoring Device](https://laknath1996.github.io/self/initiated/project/2017/04/20/photopleth-device.html)
