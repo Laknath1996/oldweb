@@ -16,7 +16,9 @@ permalink: /projects/
 
 <h3>Course Projects</h3>
 
-* Simulating wavefunctions within various 1D, 2D and 3D Potential Wells using Schrödinger's Wave Equation
+* Designing and Manufacturing a Finger-Tip Pulse Sensor
+
+* [Simulating wavefunctions within various 1D, 2D and 3D Potential Wells using Schrödinger's Wave Equation](https://laknath1996.github.io/course/project/2019/01/17/potential-wells.html)
 
 * [Custom Processor implemented on FPGA for Image Downsampling](https://laknath1996.github.io/course/project/2018/05/25/processor-design.html)
 
