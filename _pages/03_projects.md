@@ -4,24 +4,28 @@ title: Projects
 permalink: /projects/
 ---
 
-Research
+<h3>Final Year Project</h3>
 
-Research Projects
+* Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand (on going)
 
-* Using U-Nets to Segment the Retinal Vasculature
+<h3>Self Initiated Projects</h3>
 
-Course Projects
+* Rodent Behaviour Classification using Shape Evolution Images
 
-* Custom Processor implemented on FPGA for Image Downsampling
+* Using Modified U-Nets to Segment the Retinal Vasculature
 
-* Computer Interfaced Non Invasive Real Time Photo-Plethysmographic Heart Rate Monitoring Device
+<h3>Course Projects</h3>
 
-* Fully Analog Autonomous Line Following Robot
+* [[Custom Processor implemented on FPGA for Image Downsampling]](https://laknath1996.github.io/course/project/2018/05/25/processor-design.html)
 
-* UART Implementation on FPGA
+* [[Computer Interfaced Non Invasive Photo-Plethysmographic Heart Rate Monitoring Device]](https://laknath1996.github.io/self/initiated/project/2017/04/20/photopleth-device.html)
 
-* Yagi – Uda Antenna Array
+* [[Fully Analog Autonomous Line Following Robot]](https://laknath1996.github.io/course/project/2017/06/12/analog-line-follower.html)
 
-* FIR Filter Design
+* [[UART Implementation on FPGA]](https://laknath1996.github.io/course/project/2017/08/18/uart-fpga.html)
+
+* [[Yagi – Uda Antenna Array]](https://laknath1996.github.io/course/project/2016/10/07/yagi-antenna.html)
+
+* [[FIR Filter Design]](https://laknath1996.github.io/course/project/2017/09/05/fir-design.html)
 
 * Digital Alarm Clock
