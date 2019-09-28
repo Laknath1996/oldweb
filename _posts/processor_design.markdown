@@ -12,6 +12,10 @@ The algorithm was first designed and simulated on MATLAB to verify its credibili
 
 An RS232 cable (UART based) was used to establish the communication between the PC and the FPGA. Python scripts were used to mediate the data transmitting and data receiving. 
 
+Report  :   [[Report]](https://drive.google.com/open?id=1xgl0GBk0ieSggIGnXlHOPpIifrswnAO-)
+Grade   :   4.2/4.2
+Code    :   [[GitHub]](https://github.com/Laknath1996/Image-Downsampling-Processor-Design) 
+
 <iframe width="480" height="270" src="https://www.youtube.com/embed/ZEHNLUbt3R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
