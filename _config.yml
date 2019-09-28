@@ -8,6 +8,14 @@ baseurl: ""
 url: "https://laknath1996.github.io/"
 twitter_username: AshwindeSilva1
 github_username:  Laknath1996
+
+social-network-links:
+  rss: true
+  email: "ashwindesilva96@ieee.org"
+  facebook: deanattali
+  github: Laknath1996
+  twitter: AshwindeSilva1
+
 # Build Settings
 sass:
   sass_dir: _sass
