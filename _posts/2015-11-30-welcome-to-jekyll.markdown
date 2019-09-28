@@ -12,7 +12,6 @@ The algorithm was first designed and simulated on MATLAB to verify its credibili
 
 An RS232 cable (UART based) was used to establish the communication between the PC and the FPGA. Python scripts were used to mediate the data transmitting and data receiving. 
 
- <iframe src="https://youtu.be/ZEHNLUbt3R4"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/ZEHNLUbt3R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
