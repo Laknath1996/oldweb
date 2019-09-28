@@ -18,4 +18,4 @@ Report  :   [[Report]](https://drive.google.com/open?id=1thDAEZLAjAV5GEdEyVFZPdi
 
 Code    :   [[Code]](https://github.com/Laknath1996/Schrodinger-Equation-Simulation)
 
-<img src="images/orbitals.png" alt="orbitals" class="inline"/>
+<img src="{{site.url}}/images/orbitals.png" style="display: block; margin: auto;" />
