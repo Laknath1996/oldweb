@@ -12,7 +12,7 @@ MATLAB 2014a software package was used as the programming environment for the de
 
 Report  :   [[Report]](https://drive.google.com/open?id=1gmtAsZcpuABd0QqDMkicSs2xlJqFKVOS)
 
-Code    :   [[Verilog Code]](https://github.com/Laknath1996/FIR---Filter-Design)
+Code    :   [[Code]](https://github.com/Laknath1996/FIR---Filter-Design)
 
 Grade   :   4.2/4.2
 
