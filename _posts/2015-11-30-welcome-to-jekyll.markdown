@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-30 00:10:45
+title:  Custom Processor implemented on FPGA for Image Downsampling
+date:   2018-05-25 00:10:45
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Field Programmable Gate Array is a versatile platform for digital design. In this course project, a custom built processor was developed on FPGA in order to downsample an image. The algorithm was first designed and simulated on MATLAB to verify its credibility. Then the processor requirements such as the number of registers, buses, data memory size, instruction memory size, word sizes etc was determined alongside with the Instruction Set Architecture (ISA) and the Assembly codes. After the processor specifications were fixed the coding was completed using Verilog HDL which was followed by debugging and testing on hardware. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+An RS232 cable (UART based) was used to establish the communication between the PC and the FPGA. Python scripts were used to mediate the data transmitting and data receiving. 
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
