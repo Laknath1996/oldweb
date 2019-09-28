@@ -16,4 +16,6 @@ Supervisor(s)   :   Dr. Mewan Gunawardena
 
 Report  :   [[Report]](https://drive.google.com/open?id=1thDAEZLAjAV5GEdEyVFZPdiTtgjshBkI)
 
+Code    :   [[Code]](https://github.com/Laknath1996/Schrodinger-Equation-Simulation)
+
 <img src="images/orbitals.png" alt="orbitals" class="inline"/>
