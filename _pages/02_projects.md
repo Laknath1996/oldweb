@@ -33,3 +33,5 @@ permalink: /projects/
 * [FIR Filter Design](https://laknath1996.github.io/course/project/2017/09/05/fir-design.html)
 
 * Digital Alarm Clock
+
+*checky my [GitHub](https://github.com/Laknath1996) for the code repositories.*
