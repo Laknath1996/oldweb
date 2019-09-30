@@ -24,7 +24,7 @@ I have used the “DRIVE: Digital Retinal Images for Vessel Extraction” datase
 
 The image below illustrates the U-Net architecture that we would be considering.
 
-<div style="text-align: center"><img src="{{site.url}}/images/unet.png" width="300" height="300" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/unet.png" width="650" height="500" /></div>
 
 The following gist contains the U-Net architecture that we can use for training our model. The architecture is written in keras.
 
