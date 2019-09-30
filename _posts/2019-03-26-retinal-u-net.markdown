@@ -18,13 +18,13 @@ U-Net is an interesting deep learning network architecture amongst these technol
 
 U-Net does not need a huge amount of training data and that makes it ideal for Biomedical image analysis because of the relative scarcity of images in the field of Biomedicine. In this article, we will discuss how to write up a simple U-Net architecture to solve the retinal vessel segmentation problem and how to evaluate the performance of the algorithm.
 
-<div style="text-align: center"><img src="{{site.url}}/images/me.png" width="200" height="200" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/fundus.png" width="300" height="300" /></div>
 
 I have used the “DRIVE: Digital Retinal Images for Vessel Extraction” dataset for training the network. In the dataset, there are two folders, namely ‘training’ and ‘test’. The ‘training’ folder contains 20 retinal images and their vessel masks. 17 images and their vessel masks from the ‘training’ folder were taken as the training set. The remaining 3 images and their vessel masks were taken as the validating set. The test folder contains 20 images and two types of vessel masks (1st_manual and 2nd_manual). The 1st_manual vessel masks were taken as the golden standard so that the human-annotations (2nd_manual) could be compared against the gold standard when evaluating the performance. The 20 images and their vessel masks (1st_manual) were taken as the testing data. The retinal images are 3 channel images (RGB) while their vessel masks are binary images. The original images from DRIVE are of the size, 565 × 584. They were resized to 512 × 512 before saving the training, validating and testing sets in a ‘.hdf5’ file.
 
 The image below illustrates the U-Net architecture that we would be considering.
 
-<div style="text-align: center"><img src="{{site.url}}/images/me.png" width="200" height="200" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/unet.png" width="300" height="300" /></div>
 
 The following gist contains the U-Net architecture that we can use for training our model. The architecture is written in keras.
 
@@ -114,3 +114,79 @@ class UNET(object):
 {% endhighlight %}
 
 Since our training set is fairly small, it is helpful to use data augmentation techniques to enhance the size of our training data. For this, we can use the ImageDataGenerator class of keras. It enables you to configure the image preparation and augmentation. The great thing about this class is its ability to create augmented data during the model fitting process itself. The data generator is actually an iterator which returns batches of augmented images when they are requested by the model fitting algorithm.
+
+To prepare our data for the training, we have to first rescale them within the interval [0, 1]. When augmenting our data, we can use random rotations. The degree range of these random rotation can be specified in the datagenerator. This would make our model rotation invariant as the model would be seeing images of different orientations. Also, we can use horizontal and vertical random shifting as an augmentation technique. By training our model on images with different vertical and/or horizontal shifts, we can make our model translational invariant. Zooming is another augmentation technique we can use. That would make our model scale invariant. We can configure the above image data preparation and augmentation techniques as below.
+
+{% highlight ruby %} 
+
+datagen_args = dict(
+             rescale=1./255,
+             rotation_range=90,
+             width_shift_range=0.1,
+             height_shift_range=0.1,
+             zoom_range=0.2
+)
+
+{% endhighlight %}
+
+During the data preparation and augmentation, we have to make sure that the masks are getting the same changes that we are applying to the images. The following function would take care of that.
+
+{% highlight ruby %} 
+
+def get_generator(self, images, masks):
+    image_datagen = ImageDataGenerator(**datagen_args)
+    mask_datagen = ImageDataGenerator(**datagen_args)
+
+    seed = 1
+
+    image_generator = image_datagen.flow(images, seed=seed)
+    mask_generator = mask_datagen.flow(masks, seed=seed)
+
+    return zip(image_generator, mask_generator)
+
+{% endhighlight %}
+
+Now, we can define the training routine of our model. We will use the Adam Optimizer at a learning rate of 0.0001. The loss function would be binary cross entropy since we are dealing with a pixel-wise labelling problem. (vessel regions = 1, non-vessel regions = 0). We would train the model for 50 epochs while having 200 steps per epoch and 32 as our batch size. That way, the model would be seeing 32 × 200 = 6400 images at each epoch thanks to image augmentation configuration that we defined earlier. We would save our model weights to a ‘.hdf5’ file whenever the loss is improved at the end of a given epoch. Also we would be implementing an early-stopper with a patience (number of epochs with no improvement after which training will be stopped) of 10 epochs.
+
+{% highlight ruby %} 
+
+compile_args = dict(
+            optimizer=Adam(lr=1e-4),
+            loss='binary_crossentropy',
+            metrics=['accuracy']
+)
+earlystopper = EarlyStopping(
+            patience=10,
+            verbose=1
+)
+model_checkpoint = ModelCheckpoint(
+            self.model_path,
+            monitor='loss',
+            verbose=1,
+            save_best_only=True
+)
+model.compile(**self.compile_args)
+train_generator = self.get_generator(x_train, y_train)
+val_generator = self.get_generator(x_val, y_val)
+model.fit_generator(
+            train_generator,
+            epochs=50,
+            steps_per_epoch=200,
+            verbose=1,
+            callbacks=[model_checkpoint, earlystopper],
+            validation_data=val_generator,
+            validation_steps=10
+)
+
+{% endhighlight %}
+
+After the training is complete, we can evaluate our model. To evaluate the model, we can use performance metrics like F1-score, accuracy score, receiver-operator curve (ROC) AUC and precision-recall (PR) curve AUC. Plotting PR and ROC curves can provide a good insight about the model performance.
+
+We can also plot a selected retinal image (from the test set) , its vessel mask created by the human annotator and its vessel mask predicted by our U-Net model.
+
+<div style="text-align: center"><img src="{{site.url}}/images/retinal_results.png" width="500" height="200" /></div>
+
+That winds up this article. Let me know your questions in the comments. Happy U-Netting!
+
+References :
+https://machinelearningmastery.com/image-augmentation-deep-learning-keras/
