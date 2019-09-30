@@ -18,7 +18,7 @@ U-Net is an interesting deep learning network architecture amongst these technol
 
 U-Net does not need a huge amount of training data and that makes it ideal for Biomedical image analysis because of the relative scarcity of images in the field of Biomedicine. In this article, we will discuss how to write up a simple U-Net architecture to solve the retinal vessel segmentation problem and how to evaluate the performance of the algorithm.
 
-<div style="text-align: center"><img src="{{site.url}}/images/fundus.png" width="300" height="300" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/fundus.jpeg" width="300" height="300" /></div>
 
 I have used the “DRIVE: Digital Retinal Images for Vessel Extraction” dataset for training the network. In the dataset, there are two folders, namely ‘training’ and ‘test’. The ‘training’ folder contains 20 retinal images and their vessel masks. 17 images and their vessel masks from the ‘training’ folder were taken as the training set. The remaining 3 images and their vessel masks were taken as the validating set. The test folder contains 20 images and two types of vessel masks (1st_manual and 2nd_manual). The 1st_manual vessel masks were taken as the golden standard so that the human-annotations (2nd_manual) could be compared against the gold standard when evaluating the performance. The 20 images and their vessel masks (1st_manual) were taken as the testing data. The retinal images are 3 channel images (RGB) while their vessel masks are binary images. The original images from DRIVE are of the size, 565 × 584. They were resized to 512 × 512 before saving the training, validating and testing sets in a ‘.hdf5’ file.
 
