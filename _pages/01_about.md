@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to invent novel technology which will be beneficial to the human race and environment*
+*An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inpire machine intelligence*
 
 <div style="text-align: center"><img src="{{site.url}}/images/me.png" width="200" height="200" /></div>
 
