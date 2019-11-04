@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  පියඹා යාමට 'තහනම්' කලාපය
-date:   2015-04-08 00:10:45
+date:   2015-07-06 00:10:45
 categories: Articles
 excerpt_separator: <!--more-->
 ---
