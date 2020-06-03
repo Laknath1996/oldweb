@@ -1,7 +1,7 @@
 # Site Settings
 title: Ashwin De Silva
 subtitle: "Undergraduate. Researcher. Engineer"
-email: ashwindesilva96@ieee.org
+email: ashwind@uom.lk
 description: >
   Undergraduate. Researcher. Engineer.
 baseurl: ""
@@ -11,7 +11,7 @@ github_username:  Laknath1996
 
 social-network-links:
   rss: true
-  email: "ashwindesilva96@ieee.org"
+  email: "ashwind@uom.lk"
   facebook: laknath.mikoyan
   github: Laknath1996
   twitter: AshwindeSilva1
