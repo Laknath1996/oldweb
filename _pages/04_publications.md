@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /miscellaneous/
+permalink: /publications/
 ---
 
 * A. M. Naim, K. Wickramasinghe, A. De Silva, M. V. Perera, T. Dulantha Lalitharatne, and S. L. Kappel, ”Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms,” submitted to 2020 IEEE International Conference on Systems, Man and Cybernetics (Submitted)
