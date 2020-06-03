@@ -6,7 +6,7 @@ permalink: /about/
 
 *An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inspire and interface with machine intelligence*
 
-<div style="text-align: center"><img src="{{site.url}}/images/me.png" width="200" height="200" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
 I am currently a fourth year Biomedical Engineering Undergraduate in the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
 
