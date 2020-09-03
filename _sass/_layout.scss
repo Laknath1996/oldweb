@@ -50,6 +50,7 @@ main {
 	padding: 0 15px;
 	max-width: $content-width;
 	margin: 0 auto;
+	text-align: justify;
 }
 time {
 	color: #898989;
@@ -109,7 +110,3 @@ footer {
 	text-align: center;
 	padding: 40px;
 }
-
-.text-justify {
-	text-align: justify;
-  }
