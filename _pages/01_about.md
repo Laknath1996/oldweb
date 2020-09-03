@@ -4,11 +4,11 @@ title: Home
 permalink: /home/
 ---
 
-*An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inspire and interface with machine intelligence*
+*An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inspire and interface with machine intelligence* {: .text-justify}
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
-I am currently working as a Temporary Instructor at the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
+I am currently working as a Temporary Instructor at the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka. {: .text-justify}
 
 
 In addition to my undergraduate studies, I have completed two research internships (in 2017 and 2018) under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://mechanical.eng.unimelb.edu.au/people/saman) at The Florey Institute of Neuroscience, University of Melbourne, Australia. 
