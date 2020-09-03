@@ -4,6 +4,8 @@ title: Home
 permalink: /home/
 ---
 
+<h1><font size="5" color= #425469>About</font></h1>
+
 *An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inspire and interface with machine intelligence* 
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
