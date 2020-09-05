@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: Education
 permalink: /education/
 ---
 
