@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: Services
+permalink: /services/
 ---
 
 ### B.Sc. Engineering (Hons) in Biomedical Engineering | Dept. of Electronic and Telecommunication Engineering, University of Moratuwa
