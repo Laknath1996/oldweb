@@ -24,7 +24,7 @@ Recent News
 
 * August 24, 2020. Graduated as the **Gold Medalist** of the Biomedical Engineering Specialization of ENTC, University of Moratuwa. (Ranked 1st in the ENTC among 117 undergraduates and received the University Salutatorian Honor). 
 
-* August 20, 2020. One paper accepcted to IEEE International Conference on Systems, Man and Cybernetics 2020, Toronto, Canada.
+* August 20, 2020. One paper accepcted to IEEE International Conference on Systems, Man and Cybernetics (SMC) 2020, Toronto, Canada.
 
 * July 23, 2020. Completed my period as the **Chairperson** of the IEEE EMBS Student Branch Chapter at University of Moratuwa for thr term 2019/20
 
@@ -32,13 +32,13 @@ Recent News
 
 * June 24, 2020. IEEE EMBS Student Branch Chapter at University of Moratuwa was awarded the **Regional Best Student Chapter Award** for the year 2019.
 
-* May 4-8, 2020. Virtually attended 45th International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain.
+* May 4-8, 2020. Virtually attended 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain.
 
 * March 1, 2020. Joined the ENTC junior staff as a lecturer on contract.
 
 * February 24, 2020. Finished my final viva at University of Moratuwa. 
 
-* January 24, 2020. TMA map [paper](https://ieeexplore.ieee.org/document/9054227) got accepted to 45th International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain.
+* January 24, 2020. TMA map [paper](https://ieeexplore.ieee.org/document/9054227) got accepted to 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain.
 
 * November 5, 2020. Received Honorary Mentions (Ranked among top 15 in the world) at the IEEE Communication Society Student Competition 2019.
 
