@@ -8,7 +8,7 @@ permalink: /education/
 
 ### Biomedical Engineering 
 
-Engineering in Medicine and Biology, Human Anatomy and Physiology I, Human Anatomy and Physiology II, Analysis of Physiological Systems, Field Visit, Medical Imaging, Scientific Communications for BME,Biostatistics and Ethics for BME, Genomic Signal Processing(Bioinformatics), Biotechnology, Medical Image Processing, Medical Electronics and Instrumentation, Research Project, Industrial/Research Training 
+Engineering in Medicine and Biology, Human Anatomy and Physiology I, Human Anatomy and Physiology II, Analysis of Physiological Systems, Field Visit, Medical Imaging, Scientific Communications for BME, Biostatistics and Ethics for BME, Genomic Signal Processing(Bioinformatics), Biotechnology, Medical Image Processing, Medical Electronics and Instrumentation, Research Project, Industrial/Research Training 
 
 ### Electrical and Electronic Engineering
 
