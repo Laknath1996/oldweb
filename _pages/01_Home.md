@@ -26,10 +26,16 @@ Recent News
 
 * August 20, 2020. One paper accepcted to IEEE International Conference on Systems, Man and Cybernetics 2020, Toronto, Canada.
 
+* July 23, 2020. Completed my period as the Chairperson of the IEEE EMBS Student Branch Chapter at University of Moratuwa for thr term 2019/20
+
 * June 25, 2020. Conducted a workshop on "MATLAB for Signal Processing, Analog/ Digital Communication, Electronic Circuit Simulation and Digital Image Processing" at the Institute of Engineering Technology, Katunayake, Sri Lanka.
+
+* June 24, 2020. IEEE EMBS Student Branch Chapter at University of Moratuwa was awarded the Regional Best Student Chapter Award for the year 2019.
 
 * May 4-8, 2020. Virtually attended 45th International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain.
 
 * March 1, 2020. Joined the ENTC junior staff as a lecturer on contract.
+
+
 
 
