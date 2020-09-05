@@ -40,5 +40,5 @@ Recent News
 
 * January 24, 2020. TMA map [paper](https://ieeexplore.ieee.org/document/9054227) got accepted to 45th International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain.
 
-
+* November 5, 2020. Received Honorary Mentions (Ranked among top 15 in the world) at the IEEE Communication Society Student Competition 2019.
 
