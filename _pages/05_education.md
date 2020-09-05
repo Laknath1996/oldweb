@@ -12,7 +12,7 @@ Engineering in Medicine and Biology, Human Anatomy and Physiology I, Human Anato
 
 ### Electrical and Electronic Engineering
 
-Electrical Engineering, Electronics I, Electronics Lab I, Introduction to Telecommunications, Signals and Systems, Electronics II, Theory of Electricity, Random Signals and Processes, Electronics Lab II, Robot Design and Competition , Electromagnetics, Electronics III, Digital Signal Processing, Electronic Control Systems, Circuits and Systems Design, Electronic Devices
+Electrical Engineering, Electronics I, Electronics Lab I, Introduction to Telecommunications, Signals and Systems, Electronics II, Theory of Electricity, Random Signals and Processes, Electronics Lab II, Electromagnetics, Electronics III, Digital Signal Processing, Electronic Control Systems, Circuits and Systems Design, Electronic Devices
 
 ### Computer Engineering 
 
