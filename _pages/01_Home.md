@@ -4,7 +4,8 @@ title: Home
 permalink: /home/
 ---
 
-<p size="10" color= #425469>About</p>
+About
+===== 
 
 *An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inspire and interface with machine intelligence* 
 
