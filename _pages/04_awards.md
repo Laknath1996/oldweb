@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards
-permalink: /home/
+permalink: /awards/
 ---
 
 ### International Awards and Honors
