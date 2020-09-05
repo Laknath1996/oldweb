@@ -22,4 +22,4 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 Undergraduate Graduation Project Report, University of Moratuwa, 2020 [[pdf]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing)
 
 
-[<sup>*</sup> denotes equal contribution]
+[ <sup>*</sup> denotes equal contribution ]
