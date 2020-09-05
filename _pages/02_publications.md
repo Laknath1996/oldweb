@@ -18,4 +18,4 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 
 * **Designing a Cost-Effective Dry Contact SEMG Sensor System for Controlling a Bionic Hand** \\
 <u>Ashwin De Silva</u>, Malsha Perera, Kithmin Wickramasinghe, Asma Naim \\
-Undergraduate Graduation Project Report, University of Moratuwa, 2020 [pdf]
+Undergraduate Graduation Project Report, University of Moratuwa, 2020 [[pdf]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing)

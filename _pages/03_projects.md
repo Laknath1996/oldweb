@@ -6,7 +6,7 @@ permalink: /projects/
 
 <h3>Final Year Project</h3>
 
-* Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand (on going)
+* Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand [[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing)
 
 <h3>Self Initiated Projects</h3>
 
