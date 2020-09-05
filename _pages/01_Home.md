@@ -17,7 +17,7 @@ In addition to my undergraduate studies, I have completed two research internshi
 My academic interests lie within **Machine Learning, Information Theory, Learning Theory, Computational Neuroscience, Brain/Muscle-Computer Interfaces** and **NMR Imaging**. I have also worked with **Digital Signal Processing, Digital System Design, Analog Electronics** and **Robotics** during my time at Moratuwa.
 
 
-[[CV]]( https://sites.google.com/site/ashwinsprojects/) [[GitHub]](https://github.com/Laknath1996) [[LinkedIn]](http://wordpress.redirectingat.com/?id=725X1342&isjs=1&jv=13.23.5-stackpath&sref=https%3A%2F%2Fashwindesilva.wordpress.com%2F&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashwin-de-silva-6852b14b%2F&xguid=01DNKG5NFSFY3DST6JT71T301Y&xs=1&xtz=-330&xuuid=46c17aa72b7d94c302d6b7ca28f07427&xcust=8982) [[Florey]](https://www.florey.edu.au/science-research/scientist-directory/mr-ashwin-de-silva)
+[[Google Scholar]](https://scholar.google.com/citations?user=xqhwEGIAAAAJ&hl=en) [[CV]]( https://sites.google.com/site/ashwinsprojects/) [[GitHub]](https://github.com/Laknath1996) [[LinkedIn]](http://wordpress.redirectingat.com/?id=725X1342&isjs=1&jv=13.23.5-stackpath&sref=https%3A%2F%2Fashwindesilva.wordpress.com%2F&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashwin-de-silva-6852b14b%2F&xguid=01DNKG5NFSFY3DST6JT71T301Y&xs=1&xtz=-330&xuuid=46c17aa72b7d94c302d6b7ca28f07427&xcust=8982) [[Florey]](https://www.florey.edu.au/science-research/scientist-directory/mr-ashwin-de-silva)
 
 Recent News
 -----------
