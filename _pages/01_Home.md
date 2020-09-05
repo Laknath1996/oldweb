@@ -8,7 +8,7 @@ permalink: /home/
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
-I am currently working as a Temporary Instructor at the Department of Electronics and Telecommunication Engineering at the University of Moratuwa, Sri Lanka.
+I am currently working as a Temporary Instructor at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at the [University of Moratuwa](http://mrt.ac.lk), Sri Lanka.
 
 
 In addition to my undergraduate studies, I have completed two research internships (in 2017 and 2018) under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://mechanical.eng.unimelb.edu.au/people/saman) at The Florey Institute of Neuroscience, University of Melbourne, Australia.
@@ -22,5 +22,14 @@ My academic interests lie within **Machine Learning, Information Theory, Learnin
 Recent News
 -----------
 
+* August 24, 2020. Graduated as the Gold Medalist of the Biomedical Engineering Specialization of ENTC, University of Moratuwa. (Ranked 1st in the ENTC among 117 undergraduates and received the University Salutatorian Honor). 
+
+* August 20, 2020. One paper accepcted to IEEE International Conference on Systems, Man and Cybernetics 2020, Toronto, Canada.
+
+* June 25, 2020. Conducted a workshop on "MATLAB for Signal Processing, Analog/ Digital Communication, Electronic Circuit Simulation and Digital Image Processing" at the Institute of Engineering Technology, Katunayake, Sri Lanka.
+
+* May 4-8, 2020. Virtually attended 45th International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain.
+
+* March 1, 2020. Joined the ENTC junior staff as a lecturer on contract.
 
 
