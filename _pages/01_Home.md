@@ -8,7 +8,7 @@ permalink: /home/
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
-I am currently working as a Temporary Instructor at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk) B) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka. 
+I am currently working as a Temporary Instructor at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka. 
 
 I received my Bachelor's degree from UoM. I completed my thesis on "Designing a Cost-Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand" with Dr. [Simon Kappel](https://pure.au.dk/portal/en/persons/simon-lind-kappel(ac38d32d-9622-4bf6-9103-1d9225c5322c).html) and Dr. [Thilina Lalitharatne](https://scholar.google.com/citations?user=0NvOK1kAAAAJ&hl=en)
 
