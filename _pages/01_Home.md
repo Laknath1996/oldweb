@@ -4,7 +4,7 @@ title: About
 permalink: /home/
 ---
 
-*An inquisitive individual who wishes to pursue a career in research and be a part of a research culture that thrives to explore how our brains can inspire and interface with machine intelligence* 
+*An inquisitive individual who aspires to become a part of a research environment that explores how our brains can mutually inspire and interface with machine intelligence* 
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
