@@ -6,13 +6,18 @@ permalink: /projects/
 
 <h3>Final Year Project</h3>
 
-* Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand [[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing)
+* Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand \\
+[[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing) [[TMA map paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
 
 <h3>Self Initiated Projects</h3>
 
-* Rodent Behaviour Classification using Shape Evolution Images
+* Rodent Behaviour Classification using Shape Evolution Images (on going)
 
-* Using Modified U-Nets to Segment the Retinal Vasculature
+* Thickness Sensitive Vessel Extraction Framework for Retinal and Conjunctival Vascular Tortuosity Analysis
+
+* Towards Faster Phase Unwrapping with Deep Learning (on going)
+
+* Graph Process Classification (on going)
 
 <h3>Course Projects</h3>
 
