@@ -69,7 +69,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 
 ## Selected Awards
 
-* Gold Medal donated by Technomedics Pvt Ltd for the Biomedical 
+* Gold Medal donated by Technomedics Pvt Ltd for the BME graduate with the highest academic performance
 
 * Honorary Mention at the IEEE Communication Society Student Competition 2019 (Ranked among top 15 teams in the world)
 
