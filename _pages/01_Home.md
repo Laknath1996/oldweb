@@ -46,13 +46,42 @@ Recent News
 
 * November 5, 2020. Received Honorary Mentions (Ranked among top 15 in the world) at the IEEE Communication Society Student Competition 2019.
 
+## Selected Publications
+
+* **Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms** \\
+Asma Naim, Kithmin Wickramasinghe, <u>Ashwin De Silva</u>, Malsha Perera, Thilina Lalitharatne, and Simon Kappel\\
+IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020 (Accepted for an oral presentation)
+
+* **Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals**\\
+<u>Ashwin De Silva</u><sup>*</sup>, Malsha Perera<sup>*</sup>, Kithmin Wickramasinghe, Asma Naim, Thilina Lalitharatne and Simon Kappel \\
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020 \\
+[[paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
+
 ## Teaching 
 
-* EN1093 : Laboratory Practice (Signals and Systems) : Visiting Instructor, UoM, Fall 2019
+* EN1093 : Laboratory Practice (Signals and Systems) : Visiting Instructor, UoM, Fall 2019 (while I was an undergraduate)
 
 * EN3030 : Circuits and Systems Design : Teaching Assistant, UoM, Spring 2020
 
 * EN2012 : Analog Electronics : Teaching Assistant, UoM, Spring 2020
+
+* DE2410 : Astronomy and Cosmology : Visiting Instructor, UoM, Spring 2018 (while I was an undergraduate)
+
+## Selected Awards
+
+* Gold Medal donated by Technomedics Pvt Ltd for the Biomedical 
+
+* Honorary Mention at the IEEE Communication Society Student Competition 2019 (Ranked among top 15 teams in the world)
+
+* Runners-up of the Inter-University Statistics Quiz Competition organized by USJ, Sri Lanka. (2018)
+
+* Dialog Merit Scholarship for Engineering Undergraduates
+
+* Mahapola Scholarship for Engineering Undergraduates
+
+
+
+
 
 
 
