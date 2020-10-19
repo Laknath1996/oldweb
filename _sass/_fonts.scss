@@ -1,8 +1,23 @@
 @font-face {
-    font-family: "Computer Modern";
+    font-family: 'Computer Modern';
     src: 
         url('../fonts/cmunrm.woff') format('woff'),
         url('../fonts/cmunti.woff') format('woff'),
         url('../fonts/cmunbx.woff') format('woff'),
-        url('../fonts/cmunbi.woff') format('woff');
+        url('../fonts/cmunbi.woff') format('woff'),
+
+        url('../fonts/cmunrm.eot'),
+        url('../fonts/cmunti.eot'),
+        url('../fonts/cmunbx.eot'),
+        url('../fonts/cmunbi.eot'),
+
+        url('../fonts/cmunrm.svg') format('svg'),
+        url('../fonts/cmunti.svg') format('svg'),
+        url('../fonts/cmunbx.svg') format('svg'),
+        url('../fonts/cmunbi.svg') format('svg'),
+
+        url('../fonts/cmunrm.ttf') format('truetype'),
+        url('../fonts/cmunti.ttf') format('truetype'),
+        url('../fonts/cmunbx.ttf') format('truetype'),
+        url('../fonts/cmunbi.ttf') format('truetype');
     }

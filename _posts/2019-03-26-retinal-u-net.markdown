@@ -6,8 +6,6 @@ categories: Self-Initiated Project
 excerpt_separator: <!--more-->
 ---
 
-\\[ H(p,q) = -\int_X p(x)\, \log q(x)\, d\mu(x)\\]
-
 The structures exhibited by the retinal vasculature infer critical information about a wide range of retinal pathologies such as Prematurity (RoP), Diabetic Retinopathy(DR), Glaucoma, hypertension, and Age-related Macular Degeneration(AMD). These pathologies are amongst the leading causes of blindness. Accurate segmentation of retinal vasculature is important for various ophthalmologic diagnostic and therapeutic procedures.
 <!--more-->
 
