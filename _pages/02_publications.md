@@ -15,6 +15,12 @@ IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Ca
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020 \\
 [[paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
 
+## Preprints 
+
+* **A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping** \\
+ Malsha Perera, <u>Ashwin De Silva</u>\\
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021 (Submitted) [[paper]](https://arxiv.org/pdf/2010.13268.pdf)
+
 ### Theses
 
 * **Designing a Cost-Effective Dry Contact SEMG Sensor System for Controlling a Bionic Hand** \\
