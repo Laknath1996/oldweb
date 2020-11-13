@@ -8,7 +8,7 @@ permalink: /publications/
 
 * **Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms** \\
 Asma Naim, Kithmin Wickramasinghe, <u>Ashwin De Silva</u>, Malsha Perera, Thilina Lalitharatne, and Simon Kappel\\
-IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020 (Accepted for an oral presentation)
+IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020 (Accepted for an oral presentation) [[paper]](https://arxiv.org/abs/2009.02575)
 
 * **Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals**\\
 <u>Ashwin De Silva</u><sup>*</sup>, Malsha Perera<sup>*</sup>, Kithmin Wickramasinghe, Asma Naim, Thilina Lalitharatne and Simon Kappel \\
