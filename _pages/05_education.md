@@ -35,3 +35,17 @@ Production and Operations Management, Human Resource Management and Industrial R
 
 English Language, Communication Skills, Yoga Practice, Astronomy and Cosmology 
 
+### Workshops and Tutorials Participated
+
+* Graph Filters with Applications to Distributed Optimization and Neural Networks, ICASSP'20 (2020)
+* Graph Neural Networks, ICASSP'20 (2020)
+* Biomedical Image Reconstruction—From Foundations to Deep Neural Networks, ICASSP'20 (2020)
+* Neural Computational Modelling Workshop, University of Melbourne, Australia (2018)
+* Advanced Magnetic Resonance Imaging Workshop, University of Melbourne, Australia (2018)
+* QSM Workshop, 1st OHBM Australia Chapter Symposium (2018)
+* Neuromatch Academy, Observer Track (2020)
+
+### MOOCs
+
+* Machine Learning by Andrew Ng, Stanford University (2017)
+* Deep Learning Specialization by Andrew Ng, Deep.ai (2018)
