@@ -36,8 +36,6 @@ permalink: /awards/
 
 ### Award Gallery
 
-![alt-text-1]({{site.url}}/images/award1.jpg "title-1") ![alt-text-2]({{site.url}}/images/award2.jpg "title-2")
-
 <table>
   <tr>
     <td>With my mother at the convocation 2020</td>
