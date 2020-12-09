@@ -4,6 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
+### Preprints 
+
+* **A thickness sensitive vessel extraction framework for retinal and conjunctival vascular tortuosity analysis**\\
+<u>Ashwin De Silva</u><sup>*</sup>, Malsha V. Perera<sup>*</sup>, Navodini Wijethilake, Saroj Jayasinghe, Nuwan Dayananda, and Anjula De Silva
+
+* **A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping** \\
+ Malsha Perera<sup>*</sup>, <u>Ashwin De Silva</u><sup>*</sup>\\
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021 (Submitted) [[paper]](https://arxiv.org/pdf/2010.13268.pdf)
+
 ### Conference Papers
 
 * **Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms** \\
@@ -14,12 +23,6 @@ IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Ca
 <u>Ashwin De Silva</u><sup>*</sup>, Malsha Perera<sup>*</sup>, Kithmin Wickramasinghe, Asma Naim, Thilina Lalitharatne and Simon Kappel \\
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020 \\
 [[paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
-
-## Preprints 
-
-* **A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping** \\
- Malsha Perera, <u>Ashwin De Silva</u>\\
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021 (Submitted) [[paper]](https://arxiv.org/pdf/2010.13268.pdf)
 
 ### Theses
 
