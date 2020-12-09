@@ -38,5 +38,10 @@ permalink: /awards/
 
 <table class="image">
 <caption align="bottom">With my mother at the convocation 2020</caption>
-<tr><td><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></td></tr>
+<tr><td><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td></tr>
+</table>
+
+<table class="image">
+<caption align="bottom">Inter University Stat Competition 2018</caption>
+<tr><td><img src="{{site.url}}/images/award2.jpg" width="670" height="368" /></td></tr>
 </table>
