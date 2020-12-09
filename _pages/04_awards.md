@@ -38,8 +38,8 @@ permalink: /awards/
 
 <table>
   <tr>
-    <td>With my mother at the convocation 2020</td>
-    <td>Inter-university statistics competition 2018</td>
+    <td><th align="center">With my mother at the convocation 2020</th></td>
+    <td><th align="center">Inter-university statistics competition 2018</th></td>
   </tr>
   <tr>
     <td valign="top"><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td>
