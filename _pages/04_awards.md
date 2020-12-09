@@ -42,8 +42,8 @@ permalink: /awards/
     <td align="center">Inter-university statistics competition 2018</td>
   </tr>
   <tr>
-    <td valign="top"><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td>
-    <td valign="top"><img src="{{site.url}}/images/award2.jpg" width="600" height="368" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/award2.jpg" width="600" height="368" /></td>
   </tr>
  </table>
 
