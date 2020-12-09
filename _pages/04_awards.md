@@ -36,6 +36,11 @@ permalink: /awards/
 
 ### Award Gallery
 
-<div style="text-align: left"><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /> With my mother at the UoM Convocation 2020</div>
+<!-- <div style="text-align: left"><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></div> -->
 
-<div style="text-align: center"><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></div>
+<figure>
+    <img src="{{site.url}}/images/award1.jpg" width="301" height="368" />
+    <figcaption>With my mother at the convocation 2020</figcaption>
+</figure>
+
+<!-- <div style="text-align: center"><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></div> -->
