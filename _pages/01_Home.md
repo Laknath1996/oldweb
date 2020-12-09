@@ -4,7 +4,7 @@ title: About
 permalink: /home/
 ---
 
-*I'm an inquisitive individual who aspires to become a part of a research environment that explores how our brains can inspire machine intelligence, vision, cognition and locomotion. I possess a keen interest towards machine learning and signal processing coupled with their applications in areas including, but not limited to, neuroengineering, computational neuroscience, brain-computer interfaces and medical imaging.* 
+*I'm an inquisitive individual who aspires to become a part of a research environment that explores how our brains can inspire machine intelligence, vision, cognition and locomotion. I possess a keen interest towards machine learning and signal processing coupled with their applications in areas including, but not limited to, neuroengineering, computational neuroscience, and medical imaging.* 
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
@@ -14,7 +14,7 @@ I received my Bachelor's degree from UoM in 2020. I completed my thesis on "Desi
 
 In addition to my undergraduate studies, I have completed two research internships (in 2017 and 2018) focused on modelling genetic epilepsy based on the high density multi-electrode array (MEA) signals extracted from in-vitro neuronal networks, under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://mechanical.eng.unimelb.edu.au/people/saman) at The Florey Institute of Neuroscience, University of Melbourne, Australia.
 
-My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Brain-Computer Interfaces, Neuroengineering** and **Medical Imaging***. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of learning, memory,causal inference ability, vision, locomotion and cognition, and research that applies computational methods to model neurological diseases. Recently, I have adopted a keen interest in the areas of **Statistical Signal Processing,Geometric Deep Learning, Lifelong Learning** and **Computer Vision** as well.
+My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Brain-Computer Interfaces, Neuroengineering** and **Medical Imaging**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of learning, memory,causal inference ability, vision, locomotion and cognition, and research that applies computational methods to model neurological diseases. Recently, I have adopted a keen interest in the areas of **Statistical Signal Processing,Geometric Deep Learning, Lifelong Learning** and **Computer Vision** as well.
 
 During my time at UoM, I have also worked with **Digital System Design, Analog Electronics** and **Robotics**.
 
@@ -25,6 +25,8 @@ Email : ashwind[at]uom[dot]lk
 
 Recent News
 -----------
+
+* December 4, 2020. Received a **Merit award from SLAAS** for our undergraduate research project.
 
 * August 24, 2020. Graduated as the **Gold Medalist** of the Biomedical Engineering Specialization of ENTC, University of Moratuwa. (Ranked 1st in the ENTC among 117 undergraduates and received the University Salutatorian Honor). 
 
