@@ -36,12 +36,23 @@ permalink: /awards/
 
 ### Award Gallery
 
-<table class="image">
+<table>
+  <tr>
+    <td>With my mother at the convocation 2020</td>
+    <td>Inter-university statistics competition 2018</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td>
+    <td valign="top"><img src="{{site.url}}/images/award2.jpg" width="600" height="368" /></td>
+  </tr>
+ </table>
+
+<!-- <table class="image">
 <caption align="bottom">With my mother at the convocation 2020</caption>
 <tr><td><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td></tr>
 </table>
 
 <table class="image">
-<caption align="bottom">Inter University Stat Competition 2018</caption>
+<caption align="bottom">Inter-university statistics competition 2018</caption>
 <tr><td><img src="{{site.url}}/images/award2.jpg" width="600" height="368" /></td></tr>
-</table>
+</table> -->
