@@ -6,13 +6,14 @@ permalink: /awards/
 
 ### International Awards and Honors
 
-* **Honorary Mention at the IEEE Communication Society Student Competition 2019 (Ranked among top 15 teams in the world)**\\(2019) [[article]](http://www.ent.mrt.ac.lk/web3/index.php/news/212-honorary-mentions-at-the-ieee-comsoc-student-competition-2019)
+* **Honorary Mention** at the IEEE Communication Society Student Competition 2019 (Ranked among **top 15 teams in the world**)(2019) \\ 
+[[article]](http://www.ent.mrt.ac.lk/web3/index.php/news/212-honorary-mentions-at-the-ieee-comsoc-student-competition-2019)
 
 ### University Awards and Honors
 
 * **Gold Medal donated by Technomedics Pvt Ltd** for the Biomedical Engineering graduated who has obatined the highest overall grade at the B.Sc. Engineering Honors degree examinations.
 
-* *Dean's Honors List** in all the 8 semesters.
+* **Dean's Honors List** in all the 8 semesters.
 
 ### National Awards and Honors
 
