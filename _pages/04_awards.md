@@ -36,16 +36,7 @@ permalink: /awards/
 
 ### Award Gallery
 
-<!-- <div style="text-align: left"><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></div> -->
-
-<figure>
-    <img src="{{site.url}}/images/award1.jpg" width="301" height="368" />
-    <figcaption>*With my mother at the convocation 2020*</figcaption>
-</figure>
-
 <table class="image">
 <caption align="bottom">With my mother at the convocation 2020</caption>
 <tr><td><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></td></tr>
 </table>
-
-<!-- <div style="text-align: center"><img src="{{site.url}}/images/award1.jpg" width="301" height="368" /></div> -->
