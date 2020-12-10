@@ -6,7 +6,7 @@ permalink: /gallery/
 
 ### My love for White (black) Boards...
 
-A great scientific journey begins with a simple stroke on a paper...or a board. 
+A great scientific journey begins with a simple stroke on a paper...or a board :)
 
 <table>
   <tr>
