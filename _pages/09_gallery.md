@@ -6,6 +6,8 @@ permalink: /gallery/
 
 ### My love for White (black) Boards...
 
+A great scientific journey begins with a simple stroke on a paper...or a board :) 
+
 <table>
   <tr>
     <td align="center" valign="top"><img src="{{site.url}}/images/gallery1.jpg" width="341" height="256" /></td>
