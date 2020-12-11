@@ -7,7 +7,8 @@ permalink: /publications/
 ### Preprints 
 
 * **A thickness sensitive vessel extraction framework for retinal and conjunctival vascular tortuosity analysis**\\
-<u>Ashwin De Silva</u><sup>*</sup>, Malsha V. Perera<sup>*</sup>, Navodini Wijethilake, Saroj Jayasinghe, Nuwan Dayananda, and Anjula De Silva
+<u>Ashwin De Silva</u><sup>*</sup>, Malsha V. Perera<sup>*</sup>, Navodini Wijethilake, Saroj Jayasinghe, Nuwan Dayananda, and Anjula De Silva \\
+[[pdf]]({{site.url}}/docs/papers/2020_4.pdf)
 
 * **A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping** \\
  Malsha Perera<sup>*</sup>, <u>Ashwin De Silva</u><sup>*</sup>\\
