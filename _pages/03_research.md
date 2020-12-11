@@ -11,7 +11,7 @@ Advisors : Dr. Simon Kappel, Dr. Thilina Lalitharatne,
 Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
 [[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing) [[TMA map paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
 
-<div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="300" height="300" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div>
 
 <h3>Internship Projects</h3>
 
