@@ -4,7 +4,14 @@ title: Services
 permalink: /services/
 ---
 
-I come from Galle, a town in southern Sri Lanka. It is renowned for its great beaches, sea food and the Dutch Fort. Here're some moments I have captured from this unique place. 
+### IEEE EMBS Student Branch Chapter at the University of Moratuwa
+
+I served as the chairperson of the IEEE Engineering in Medicine and Biology Society (EMBS) Student Branch Chapter at the University of Moratuwa (UoM) for the term of 2019/20. Since biomedical engineering (BME) is a relatively new topic in Sri Lanka, our chapter's objective was to create awareness about the field among college students and the general public. To this end, together with my team, I led the organization of many events, including "TechMedImpact Forum 2017" (Sri Lanka's first-ever BME forum), "Brainstorm" 2018 and 2019 (Sri Lanka's premier interdisciplinary BME design competition), BME Seminar series (2016 - Present), exhibitions, and conference workshops. Our work in the term 2019/20 was recognized by IEEE EMB Society (The world's largest professional BME community) by presenting the Regional (Asia-Pacific) \emph{Best Student Chapter Award}. Also, IEEE presented us with the \emph{Darrel Chong Silver Award} for organizing Brainstorm 2019. I am humbled by the opportunity I got through the chapter to uplift BME's status in my country while I was still an undergraduate. Here're some of the moments of my time at IEEE EMBS Student Chapter at UoM.
+
+### Astronomical Observation Sessions  
+
+From 2016 to 2019, I, together with my colleagues, had the opportunity to organize several recreational astronomy sessions in some rural areas of Sri Lanka. These sessions typically commenced with a brief introduction about telescopes and celestial bodies that we can observe in the night sky. Then we would set up our telescopes and let the session participants, often comprised of local families, observe the night sky's mesmerizing objects such as the moon, planets, satellites, and nebulae. I always admired star-gazing, and therefore, sharing my passion with these local communities was an enriching experience. Among the sessions, my team and I organized, we had the most moving experience at a session we conducted for a group of autistic children and their parents.
+
 
 <table>
   <tr>
@@ -16,20 +23,6 @@ I come from Galle, a town in southern Sri Lanka. It is renowned for its great be
     <td align="center">Inter-university statistics competition 2018</td>
   </tr>
  </table>
-
-
-I had my elementary and secondary education from [Richmond College](http://www.richmondcollege.lk/). After leaving the school, I co-founded the [Richmond to University – R2U](https://www.facebook.com/Rich2Uni/) program with the intention of providing motivation and career guidance for the advanced level students at Richmond. 
-
-
-At University of Moratuwa, I worked as the Chairperson of the [IEEE Engineering in Medicine and Biology Student Branch Chapter](https://site.ieee.org/sb-moratuwa-embs/). IEEE Engineering in Medicine and Biology Society (EMBS) is the world’s largest international society of biomedical engineers. 
-
-
-Also I volunteered for the Research Collaboration Program under [SL2College](https://www.facebook.com/sl2college/) foundation. There, the motivation was to build a platform where Sri Lanknan researchers and undergraduates can share their interests and find potential matches for research projects.
-
-
-I have also helped conduct several astronomy and robotics workshops in some local schools around the island. Passing down the knowledge you acquired to another generation is always a great satisfaction.
-
-In my free time, I play the piano, hang out with my friends or listen to music.  
 
 
 
