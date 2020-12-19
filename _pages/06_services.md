@@ -32,6 +32,8 @@ I co-founded "R2U" (Richmond to University), a not-for-profit organization aimed
 
 From 2016 to 2019, I, together with my colleagues, had the opportunity to organize several recreational astronomy sessions in some rural areas of Sri Lanka. These sessions typically commenced with a brief introduction about telescopes and celestial bodies that we can observe in the night sky. Then we would set up our telescopes and let the session participants, often comprised of local families, observe the night sky's mesmerizing objects such as the moon, planets, satellites, and nebulae. I always admired star-gazing, and therefore, sharing my passion with these local communities was an enriching experience. Among the sessions, my team and I organized, we had the most moving experience at a session we conducted for a group of autistic children and their parents.
 
+<div style="text-align: center"><img src="{{site.url}}/images/astro1.png" width="712" height="376" /></div>
+
 ### Robotics workshops for school girls
 
 In Sri Lanka, women are often underrepresented in STEM fields like robotics. To alleviate this problem, a few colleagues and I organized several workshops to promote robotics among young schoolgirls in the country. In these workshops, we taught the children about simple robotics, programming, and electronics principles. Our effort received positive feedback from the community, and in the following years, we were happy to see that some of the children we taught in these workshops were attending major robotics competitions in the country.
