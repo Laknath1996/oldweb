@@ -12,11 +12,17 @@ I served as the chairperson of the IEEE Engineering in Medicine and Biology Soci
 
 <div style="text-align: center"><img src="{{site.url}}/images/embs2.png" width="712" height="300" /></div>
 
-<div style="text-align: center"><img src="{{site.url}}/images/embs3.png" width="712" height="300" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/embs3.png" width="712" height="247" /></div>
 
-<div style="text-align: center"><img src="{{site.url}}/images/embs4.png" width="712" height="300" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/embs4.png" width="712" height="258" /></div>
 
-<div style="text-align: center"><img src="{{site.url}}/images/embs5.png" width="712" height="300" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/embs5.png" width="712" height="325" /></div>
+
+### Richmond to University Foundation
+
+I co-founded "R2U" (Richmond to University), a not-for-profit organization aimed at motivating and providing career guidance advice to the high school students of Richmond College, Sri Lanka, in 2018. Since then, we have organized many workshops and lectures at the school and have received positive feedback from the participants. In schools like Richmond, located outside of the country's capital, the students get less exposure to higher studies, careers, and essential skills. Through our organization, we were able to address this issue and direct the students to make informed decisions about their future.
+
+<div style="text-align: center"><img src="{{site.url}}/images/r2u1.png" width="709" height="300" /></div>
 
 
 ### Astronomical Observation Sessions  
