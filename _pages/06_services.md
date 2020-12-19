@@ -8,9 +8,9 @@ permalink: /services/
 
 I served as the chairperson of the IEEE Engineering in Medicine and Biology Society (EMBS) Student Branch Chapter at the University of Moratuwa (UoM) for the term of 2019/20. Since biomedical engineering (BME) is a relatively new topic in Sri Lanka, our chapter's objective was to create awareness about the field among college students and the general public. To this end, together with my team, I led the organization of many events, including "TechMedImpact Forum 2017" (Sri Lanka's first-ever BME forum), "Brainstorm" 2018 and 2019 (Sri Lanka's premier interdisciplinary BME design competition), BME Seminar series (2016 - Present), exhibitions, and conference workshops. Our work in the term 2019/20 was recognized by IEEE EMB Society (The world's largest professional BME community) by presenting the Regional (Asia-Pacific) **Best Student Chapter Award**. Also, IEEE presented us with the **Darrel Chong Silver Award** for organizing Brainstorm 2019. I am humbled by the opportunity I got through the chapter to uplift BME's status in my country while I was still an undergraduate. Here're some of the moments from my days at the IEEE EMBS Student Chapter at UoM.
 
-<div style="text-align: center"><img src="{{site.url}}/images/embs1.png" width="709" height="200" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/embs1.png" width="709" height="300" /></div>
 
-<div style="text-align: center"><img src="{{site.url}}/images/embs2.png" width="712" height="200" /></div>
+<div style="text-align: center"><img src="{{site.url}}/images/embs2.png" width="712" height="300" /></div>
 
 ### Astronomical Observation Sessions  
 
