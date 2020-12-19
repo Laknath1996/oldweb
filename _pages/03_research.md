@@ -27,9 +27,11 @@ Institution : The Florey Institute of Neuroscience and Mental Health, University
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects3.png" width="397" height="300" /></div>
 
-* **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. (Aug - Nov 2019)**\\
-Advisor : Dr. Steffen Bollmann  
-Institution : Center for Advanced Imaging, University of Queensland, Australia.
+* **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. (Aug - Nov 2018, Aug - Nov 2019)**\\
+Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) 
+Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.
+
+<div style="text-align: center"><img src="{{site.url}}/images/projects4.png" width="695" height="300" /></div>
 
 <h3>Self Initiated Research Projects</h3>
 
