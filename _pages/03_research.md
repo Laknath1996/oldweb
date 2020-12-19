@@ -18,16 +18,24 @@ Group : Computer Vision Group, University of Moratuwa, Sri Lanka.
 
 * **Developed a vessel extraction framework for retinal and conjunctival vascular tortuosity analysis. [Self-initiated Project] (Oct 2019 - Sep 2020)** \\
 Advisors : Prof. Saroj Jayasinghe (Faculty of Medicine, University of Colombo, Sri Lanka), Dr. Nuwan Dayananda, Dr. Anjula De Silva  
-Institution : Biomedical Engineering Laboratory, University of Moratuwa, Sri Lanka.
+Institution : Biomedical Engineering Laboratory, University of Moratuwa, Sri Lanka.\\
+[[paper]]({{site.url}}/docs/papers/2020_4.pdf)
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects5.png" width="631" height="300" /></div>
 
 * **Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand [Final Year Project] (Feb 2019 - Feb 2020)**\\
 Advisors : Dr. Simon Kappel, Dr. Thilina Lalitharatne, 
 Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
-[[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing) [[TMA map paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
+[[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing) [[paper1]]({{site.url}}/docs/papers/2020_1.pdf) [[paper2]]({{site.url}}/docs/papers/2020_2.pdf) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div>
+
+* **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
+Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
+Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.\\
+[[paper]]({{site.url}}/docs/papers/2020_3.pdf)
+
+<div style="text-align: center"><img src="{{site.url}}/images/projects4.png" width="695" height="300" /></div>
 
 * **Developing machine learning and signal processing software to extract interpretable features from high-density multi-electrode array (MEA) signals acquired from in-   vitro neuronal networks, and classify those networks according to the ion-channel mutations they contain. [Research Internship] (Jun - Dec 2018)**\\
 Advisors : Prof. Steven Petrou, Prof. Saman Halgamuge \\   
@@ -40,12 +48,6 @@ Advisors : Prof. Steven Petrou, Dr. Andre Peterson \\
 Institution : The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects3.png" width="397" height="300" /></div>
-
-* **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
-Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
-Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.
-
-<div style="text-align: center"><img src="{{site.url}}/images/projects4.png" width="695" height="300" /></div>
 
 <h3>Course Projects (Bachelors)</h3>
 
