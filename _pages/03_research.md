@@ -7,11 +7,11 @@ permalink: /research/
 <h3>On-going Projects</h3>
 
 * **Developing a graph neural network-based real-time hand gesture recognition algorithm. [Self-initiated Project] (Aug 2020 - Present)** \\
-Advisor : Dr. Chamira Edussooriya
+Advisor : Dr. Chamira Edussooriya \\
 Institution : Biomedical Engineering Laboratory, University of Moratuwa, Sri Lanka.
 
 * **Developing deep learning algorithms for rodent behavior classification based on DeepLabCut framework. [self-initiated project] (April 2020 - Present)**\\
-Advisor : Dr. Ranga Rodrigo
+Advisor : Dr. Ranga Rodrigo \\
 Group : Computer Vision Group, University of Moratuwa, Sri Lanka.
 
 <h3>Completed Projects</h3>
@@ -30,19 +30,19 @@ Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
 <div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div>
 
 * **Developing machine learning and signal processing software to extract interpretable features from high-density multi-electrode array (MEA) signals acquired from in-   vitro neuronal networks, and classify those networks according to the ion-channel mutations they contain. [Research Internship] (Jun - Dec 2018)**\\
-Advisors : Prof. Steven Petrou, Prof. Saman Halgamuge    
+Advisors : Prof. Steven Petrou, Prof. Saman Halgamuge \\   
 Institution : The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects2.png" width="516" height="300" /></div>
 
 * **Developing software to determine the connectivity changes caused to the in-vitro neuronal networks by ion-channel mutations, via modeling the networks as time-varying graphs based on high-density MEA signals. [Research Internship] (Jun - Dec 2018)**\\
-Advisors : Prof. Steven Petrou, Dr. Andre Peterson
+Advisors : Prof. Steven Petrou, Dr. Andre Peterson \\
 Institution : The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects3.png" width="397" height="300" /></div>
 
 * **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
-Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) 
+Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
 Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects4.png" width="695" height="300" /></div>
