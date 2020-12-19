@@ -22,13 +22,17 @@ I served as the chairperson of the IEEE Engineering in Medicine and Biology Soci
 
 I co-founded "R2U" (Richmond to University), a not-for-profit organization aimed at motivating and providing career guidance advice to the high school students of Richmond College, Sri Lanka, in 2018. Since then, we have organized many workshops and lectures at the school and have received positive feedback from the participants. In schools like Richmond, located outside of the country's capital, the students get less exposure to higher studies, careers, and essential skills. Through our organization, we were able to address this issue and direct the students to make informed decisions about their future.
 
-<div style="text-align: center"><img src="{{site.url}}/images/r2u1.png" width="709" height="300" /></div>
-
-
 ### Astronomical Observation Sessions  
 
 From 2016 to 2019, I, together with my colleagues, had the opportunity to organize several recreational astronomy sessions in some rural areas of Sri Lanka. These sessions typically commenced with a brief introduction about telescopes and celestial bodies that we can observe in the night sky. Then we would set up our telescopes and let the session participants, often comprised of local families, observe the night sky's mesmerizing objects such as the moon, planets, satellites, and nebulae. I always admired star-gazing, and therefore, sharing my passion with these local communities was an enriching experience. Among the sessions, my team and I organized, we had the most moving experience at a session we conducted for a group of autistic children and their parents.
 
+### Robotics workshops for school girls
+
+In Sri Lanka, women are often underrepresented in STEM fields like robotics. To alleviate this problem, a few colleagues and I organized several workshops to promote robotics among young schoolgirls in the country. In these workshops, we taught the children about simple robotics, programming, and electronics principles. Our effort received positive feedback from the community, and in the following years, we were happy to see that some of the children we taught in these workshops were attending major robotics competitions in the country.
+
+### Teaching Mathematics for underprivileged schools
+
+In 2016, I partnered with the University Leo Club to teach mathematics to a group of students from a rural school in my home district. These children were very talented, but their potential remained unnoticed because of the lack of proper mentorship. Through this tutoring, we covered a wide range of mathematical topics for them to prepare well for their ordinary level exams.
 
 
 
