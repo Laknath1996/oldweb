@@ -12,6 +12,13 @@ I served as the chairperson of the IEEE Engineering in Medicine and Biology Soci
 
 <div style="text-align: center"><img src="{{site.url}}/images/embs2.png" width="712" height="300" /></div>
 
+<div style="text-align: center"><img src="{{site.url}}/images/embs3.png" width="712" height="300" /></div>
+
+<div style="text-align: center"><img src="{{site.url}}/images/embs4.png" width="712" height="300" /></div>
+
+<div style="text-align: center"><img src="{{site.url}}/images/embs5.png" width="712" height="300" /></div>
+
+
 ### Astronomical Observation Sessions  
 
 From 2016 to 2019, I, together with my colleagues, had the opportunity to organize several recreational astronomy sessions in some rural areas of Sri Lanka. These sessions typically commenced with a brief introduction about telescopes and celestial bodies that we can observe in the night sky. Then we would set up our telescopes and let the session participants, often comprised of local families, observe the night sky's mesmerizing objects such as the moon, planets, satellites, and nebulae. I always admired star-gazing, and therefore, sharing my passion with these local communities was an enriching experience. Among the sessions, my team and I organized, we had the most moving experience at a session we conducted for a group of autistic children and their parents.
