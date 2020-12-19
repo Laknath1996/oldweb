@@ -19,9 +19,13 @@ Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
 Advisors : Prof. Steven Petrou, Prof. Saman Halgamuge    
 Institution : The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.
 
+<div style="text-align: center"><img src="{{site.url}}/images/projects2.png" width="516" height="300" /></div>
+
 * **Developing software to determine the connectivity changes caused to the in-vitro neuronal networks by ion-channel mutations, via modeling the networks as time-varying graphs based on high-density MEA signals. (Jun - Dec 2018)**\\
 Advisors : Prof. Steven Petrou, Dr. Andre Peterson
 Institution : The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.
+
+<div style="text-align: center"><img src="{{site.url}}/images/projects3.png" width="397" height="300" /></div>
 
 * **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. (Aug - Nov 2019)**\\
 Advisor : Dr. Steffen Bollmann  
