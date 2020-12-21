@@ -14,9 +14,13 @@ I received my Bachelor's degree from UoM in 2020. I completed my thesis on "Desi
 
 In addition to my undergraduate studies, I have completed two research internships (in 2017 and 2018) focused on modelling genetic epilepsy based on the high density multi-electrode array (MEA) signals extracted from in-vitro neuronal networks, under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://mechanical.eng.unimelb.edu.au/people/saman) at The Florey Institute of Neuroscience, University of Melbourne, Australia.
 
-My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Brain-Computer Interfaces, Neuroengineering** and **Medical Imaging**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of learning, memory,causal inference ability, vision, locomotion and cognition, and research that applies computational methods to model neurological diseases. Recently, I have adopted a keen interest in the areas of **Statistical Signal Processing,Geometric Deep Learning, Lifelong Learning** and **Computer Vision** as well.
+My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Neuroengineering** and **Medical Imaging**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of learning, memory, reasoning, vision, and motor planning. Also, I am keen to develop computer vision and signal processing methods to advance the field of biomedical imaging. Finally, I have become interested in research that applies computational methods to model neurodegenerative diseases. 
 
-During my time at UoM, I have also worked with **Digital System Design, Analog Electronics** and **Robotics**.
+Reecently, I have adopted a keen interest in theroetical aspects within the areas of **Statistical Signal Processing, Geometric Deep Learning** and **Computer Vision**.
+
+During my time at UoM, I worked with **Digital System Design, Analog Electronics** and **Robotics** as well.
+
+I like playing the piano, exploring restaurants (especially pizzerias!), and watching Star Wars, when I get free time. 
 
 [[Google Scholar]](https://scholar.google.com/citations?user=xqhwEGIAAAAJ&hl=en) [[CV]]( https://sites.google.com/site/ashwinsprojects/) [[GitHub]](https://github.com/Laknath1996) [[LinkedIn]](http://wordpress.redirectingat.com/?id=725X1342&isjs=1&jv=13.23.5-stackpath&sref=https%3A%2F%2Fashwindesilva.wordpress.com%2F&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashwin-de-silva-6852b14b%2F&xguid=01DNKG5NFSFY3DST6JT71T301Y&xs=1&xtz=-330&xuuid=46c17aa72b7d94c302d6b7ca28f07427&xcust=8982) [[Florey]](https://www.florey.edu.au/science-research/scientist-directory/mr-ashwin-de-silva)
 
