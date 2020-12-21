@@ -7,7 +7,7 @@ permalink: /home/
 *I'm an inquisitive individual who aspires to become a part of a research environment that explores how our brains can inspire machines, in terms of learning, reasoning, vision, and motor planning. Also, I am passionate about improving technologies that enables us to,*
 
 * *probe complex brain structures and functions*,
-* *interface with the nervous system*
+* *build advanced neural prostheses*
 * *delineate the neurodegenerative disease mechanisms*
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
