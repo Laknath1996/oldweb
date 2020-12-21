@@ -58,6 +58,14 @@ permalink: /awards/
   </tr>
  </table>
 
+ <table>
+  <tr>
+    <td align="center" valign="top"><img src="{{site.url}}/images/award5.jpg" width="389" height="368" /></td>
+  </tr>
+    <tr>
+    <td align="center">Dialog Merit Scholarship 2018</td>
+  </tr>
+ </table>
 <!-- <table class="image">
 <caption align="bottom">With my mother at the convocation 2020</caption>
 <tr><td><img src="{{site.url}}/images/award1.jpg" width="300" height="368" /></td></tr>
