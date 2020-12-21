@@ -49,8 +49,8 @@ permalink: /awards/
 
  <table>
   <tr>
-    <td align="center" valign="top"><img src="{{site.url}}/images/award3.jpg" width="438" height="368" /></td>
-    <td align="center" valign="top"><img src="{{site.url}}/images/award4.jpg" width="524" height="368" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/award3.png" width="438" height="368" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/award4.png" width="524" height="368" /></td>
   </tr>
     <tr>
     <td align="center">IEEE ComSoc 2019</td>
@@ -60,7 +60,7 @@ permalink: /awards/
 
  <table>
   <tr>
-    <td align="center" valign="top"><img src="{{site.url}}/images/award5.jpg" width="389" height="368" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/award5.png" width="389" height="368" /></td>
   </tr>
     <tr>
     <td align="center">Dialog Merit Scholarship 2018</td>
