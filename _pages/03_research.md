@@ -23,8 +23,6 @@ Institution : Biomedical Engineering Laboratory, University of Moratuwa, Sri Lan
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects5.png" width="631" height="300" /></div>
 
-Systemic diseases such as diabetes, hypertension, atherosclerosis are among the leading causes of annual human mortality rate. It is suggested that retinal and conjunctival vascular tortuosity is a potential biomarker for such systemic diseases. Most importantly, it is observed that the tortuosity depends on the thickness of these vessels. Therefore, selective calculation of tortuosity within specific vessel thicknesses is required depending on the disease being analysed. In this paper, we propose a thickness sensitive vessel extraction framework that is primarily applicable for studies related to retinal and conjunctival vascular tortuosity. The framework uses a Convolutional Neural Network based on the IterNet architecture to obtain probability maps of the entire vasculature. They are then processed by a multi-scale vessel enhancement technique that exploits both fine and coarse structural vascular details of these probability maps in order to extract vessels of specified thicknesses. We evaluated the proposed framework on four datasets including DRIVE and SBVPI, and obtained Matthew's Correlation Coefficient values greater than 0.71 for all the datasets. In addition, the proposed framework was utilized to determine the association of diabetes with retinal and conjunctival vascular tortuosity. We observed that retinal vascular tortuosity (Eccentricity based Tortuosity Index) of the diabetic group was significantly higher ($p < .05$) than that of the non-diabetic group and that conjunctival vascular tortuosity (Total Curvature normalized by Arc Length) of diabetic group was significantly lower ($p < .05$) than that of the non-diabetic group. These observations were in agreement with the literature, strengthening the suitability of the proposed framework.
-
 * **Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand [Final Year Project] (Feb 2019 - Feb 2020)**\\
 Advisors : Dr. Simon Kappel, Dr. Thilina Lalitharatne, 
 Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
@@ -32,7 +30,7 @@ Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div>
 
-* **Developing deep learning algorithms to solve the phase unwrapping problem of MRI (more specifically, QSM) images. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
+* **Developing deep learning algorithms to solve the phase unwrapping problem of Quantity Susceptibility Mappings using MRI. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
 Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
 Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.\\
 [[paper]]({{site.url}}/docs/papers/2020_3.pdf)
