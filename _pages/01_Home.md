@@ -33,7 +33,7 @@ Recent News
 
 * December 4, 2020. Received a **Merit award from SLAAS** for our undergraduate research project.
 
-* August 24, 2020. Graduated as the **Gold Medalist** of the Biomedical Engineering Specialization of ENTC, University of Moratuwa. (Ranked 1st in the ENTC among 117 undergraduates and received the University Salutatorian Honor). 
+* August 24, 2020. Graduated as the **Gold Medalist** of the Biomedical Engineering Specialization of ENTC, University of Moratuwa.
 
 * August 20, 2020. One paper accepcted to IEEE International Conference on Systems, Man and Cybernetics (SMC) 2020, Toronto, Canada.
 

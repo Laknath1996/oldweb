@@ -15,6 +15,8 @@ permalink: /awards/
 
 * **Dean's Honors List** in all the 8 semesters.
 
+* **Prof. Pathuwathawithana Memorial Prize** for attaining the highest GPA at the Faculty of Engineering, University of Moratuwa, Sri Lanka.
+
 ### National Awards and Honors
 
 * **Merit award at the SLAAS Awards.** This award is presented by the Sri Lanka Association for the Advancement of Science for the best undergradutes projects submitted to a Sri Lankan university. (2020)\\
