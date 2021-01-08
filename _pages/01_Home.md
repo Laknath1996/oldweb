@@ -29,6 +29,8 @@ Email : ashwind[at]uom[dot]lk
 Recent News
 -----------
 
+* January 6, 2021. Received Prof. Pathuwathawithana Memorial Prize for the Highest GPA at the Faculty of Engineering, University of Moratuwa, Sri Lanka.
+
 * December 4, 2020. Received a **Merit award from SLAAS** for our undergraduate research project.
 
 * August 24, 2020. Graduated as the **Gold Medalist** of the Biomedical Engineering Specialization of ENTC, University of Moratuwa. (Ranked 1st in the ENTC among 117 undergraduates and received the University Salutatorian Honor). 
