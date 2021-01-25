@@ -26,6 +26,8 @@ In my free time, I like playing the piano, exploring restaurants (especially piz
 
 Email : ashwind[at]uom[dot]lk
 
+<div style="text-align: center"><img src="{{site.url}}/images/motto.jpeg" width="333" height="250" /></div>
+
 Recent News
 -----------
 
