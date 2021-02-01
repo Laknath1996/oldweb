@@ -8,13 +8,15 @@ permalink: /home/
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
-I am currently working as a Junior Lecturer at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka. 
+I am currently working as a Junior Lecturer at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka.
 
-I received my Bachelor's degree from UoM in 2020. I completed my thesis on "Designing a Cost-Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand" with Dr. [Simon Kappel](https://pure.au.dk/portal/en/persons/simon-lind-kappel(ac38d32d-9622-4bf6-9103-1d9225c5322c).html) and Dr. [Thilina Lalitharatne](https://scholar.google.com/citations?user=0NvOK1kAAAAJ&hl=en)
+I received my Bachelor's degree from UoM in 2020. I completed my thesis on "Designing a Cost-Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand" with Dr. [Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en) and Dr. [Thilina Lalitharatne](https://scholar.google.com/citations?user=0NvOK1kAAAAJ&hl=en)
 
-In addition to my undergraduate studies, I have completed two research internships (in 2017 and 2018) focused on modelling genetic epilepsy based on the high density multi-electrode array (MEA) signals extracted from in-vitro neuronal networks, under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://mechanical.eng.unimelb.edu.au/people/saman) at The Florey Institute of Neuroscience, University of Melbourne, Australia.
+In addition to my undergraduate studies, I have completed two research internships (in 2017 and 2018) focused on modelling genetic epilepsy based on the high density multi-electrode array (MEA) signals extracted from in-vitro neuronal networks, under the supervision of Prof. [Steve Petrou](https://www.florey.edu.au/science-research/scientist-directory/professor-steven-petrou) and Prof. [Saman Halgamuge](https://scholar.google.com.au/citations?user=9cafqywAAAAJ&hl=en) at The Florey Institute of Neuroscience, University of Melbourne, Australia.
 
-My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Neuroengineering** and **Medical Imaging**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of learning, memory, reasoning, vision, and motor planning. Also, I am keen to develop computer vision and signal processing methods to advance the field of biomedical imaging. Moreover, I have become interested in research that applies computational methods to model neurodegenerative diseases. 
+I have also worked with Dr. [Steffen Bollmann](https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=en) (Center for Advanced Imaging, University of Queensland, Australia) on exploring the applicability of using fully convolutional networks to unwrap wrapped phase images. 
+
+My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Neuroengineering** and **Medical Imaging**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of intelligence, vision, and/or motor planning. Also, I am keen to develop computer vision and signal processing methods to advance the field of biomedical imaging. Moreover, I have become interested in research that applies computational methods to model neurodegenerative diseases. 
 
 Reecently, I have adopted a keen interest in the theroetical aspects of **Statistical Signal Processing, Geometric Deep Learning** and **Computer Vision**.
 
@@ -31,7 +33,9 @@ Email : ashwind[at]uom[dot]lk
 Recent News
 -----------
 
-* January 6, 2021. Received Prof. Pathuwathawithana Memorial Prize for the Highest GPA at the Faculty of Engineering, University of Moratuwa, Sri Lanka.
+* Januray 30, 2021. One paper (on Phase Unwrapping) accepted to ICASSP 2021.
+
+* January 6, 2021. Received **Prof. Pathuwathawithana Memorial Prize** for the Highest GPA at the Faculty of Engineering, University of Moratuwa, Sri Lanka.
 
 * December 4, 2020. Received a **Merit award from SLAAS** for our undergraduate research project.
 
@@ -67,6 +71,8 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 [[paper]](https://ieeexplore.ieee.org/document/9054227) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
 
 ## Teaching 
+
+* BM2101 : Analysis of Physiological Systems : Teaching Assistant, UoM, 2021
 
 * EN1093 : Laboratory Practice (Signals and Systems) : Visiting Instructor, UoM, Fall 2019 (while I was an undergraduate)
 
