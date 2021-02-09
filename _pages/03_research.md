@@ -57,7 +57,7 @@ Institution : Center for Advanced Imaging, University of Queensland, Australia a
 <div style="text-align: center"><img src="{{site.url}}/images/projects4.png" width="695" height="300" /></div>
 
 * **Developing machine learning and signal processing software to extract interpretable features from high-density multi-electrode array (MEA) signals acquired from in-   vitro neuronal networks, and classify those networks according to the ion-channel mutations they contain. [Research Internship] (Jun - Dec 2018)**\\
-Advisors : Prof. Steven Petrou, Prof. Saman Halgamuge \\   
+Advisors : Prof. Steven Petrou, Prof. Saman Halgamuge\\   
 Institution : The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects2.png" width="516" height="300" /></div>
