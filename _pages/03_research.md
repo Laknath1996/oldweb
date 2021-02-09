@@ -30,6 +30,17 @@ Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
 
 <div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div>
 
+<table>
+  <tr>
+    <td align="center" valign="top"><img src="{{site.url}}/images/projects1.jpg" width="396" height="300" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/projects6.jpg" width="513" height="300" /></td>
+  </tr>
+    <tr>
+    <td align="center">TMA maps</td>
+    <td align="center">Active dry-contact sEMG sensors</td>
+  </tr>
+ </table>
+
 * **Developing deep learning algorithms to solve the phase unwrapping problem of Quantity Susceptibility Mappings using MRI. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
 Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
 Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.\\
