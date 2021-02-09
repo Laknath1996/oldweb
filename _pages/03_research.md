@@ -47,6 +47,10 @@ Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
  </table>
 </center>
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPA2NB8ugzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 * **Developing deep learning algorithms to solve the phase unwrapping problem of Quantity Susceptibility Mappings using MRI. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
 Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
 Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.\\

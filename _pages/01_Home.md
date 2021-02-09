@@ -4,7 +4,7 @@ title: About
 permalink: /home/
 ---
 
-*I'm an inquisitive individual who aspires to become a part of a research environment that explores how our brains can inspire machines, in terms of learning, reasoning, vision, and motor planning. Also, I am passionate about improving technologies that enable us to probe complex brain structures and functions, build advanced neural prostheses, and delineate the neurodegenerative disease mechanisms.*
+*I'm an inquisitive individual who aspires to explore how our brains can inspire machines, in terms of aspects including, but not limited to, intelligence, computation, and perception. Also, I am passionate about improving technologies that enable us to probe complex brain structures and functions, build advanced neural prostheses, and delineate the neurodegenerative disease mechanisms. My academic interests lie on the intersection of machine learning, signal processing, and biomedical engineering.*
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
@@ -16,9 +16,9 @@ In addition to my undergraduate studies, I have completed two research internshi
 
 I have also worked with Dr. [Steffen Bollmann](https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=en) (Center for Advanced Imaging, University of Queensland, Australia) on exploring the applicability of using fully convolutional networks to unwrap wrapped phase images. 
 
-My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Neuroengineering** and **Medical Imaging**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of intelligence, vision, and/or motor planning. Also, I am keen to develop computer vision and signal processing methods to advance the field of biomedical imaging. Moreover, I have become interested in research that applies computational methods to model neurodegenerative diseases. 
+My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Neuroengineering** and **Medical Image Analysis**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of intelligence, computation, and perception. Also, I am keen to develop computer vision and signal processing methods to advance the field of medical image analysis. Moreover, I have become interested in research that applies computational methods to model neurodegenerative diseases. 
 
-Reecently, I have adopted a keen interest in the theroetical aspects of **Statistical Signal Processing, Geometric Deep Learning** and **Computer Vision**.
+Reecently, I have adopted a keen interest in **Statistical Signal Processing, Geometric Deep Learning** and **Neuromorphic Computing**.
 
 During my time at UoM, I worked with **Digital System Design, Analog Electronics** and **Robotics** as well.
 
