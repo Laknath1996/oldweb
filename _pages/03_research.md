@@ -6,6 +6,10 @@ permalink: /research/
 
 <h3>On-going Projects</h3>
 
+* **Developing algorithms for EEG artifact removal [Self-initiated Project] (Jan 2021 - Present)** \\
+Advisor : Dr. Yogatheesan Varatharaja \\
+Institution : Biomedical Engineering Laboratory, University of Moratuwa, Sri Lanka, University of Illinois at Urbana-Champaign, USA.
+
 * **Developing a graph neural network-based real-time hand gesture recognition algorithm. [Self-initiated Project] (Aug 2020 - Present)** \\
 Advisor : Dr. Chamira Edussooriya \\
 Institution : Biomedical Engineering Laboratory, University of Moratuwa, Sri Lanka.
@@ -28,18 +32,20 @@ Advisors : Dr. Simon Kappel, Dr. Thilina Lalitharatne,
 Institution : Bionics Laboratory, University of Moratuwa, Sri Lanka.\\
 [[Thesis]](https://drive.google.com/file/d/1vsiN3oIjDBOPYcGHZHiY1dkdisIAycm_/view?usp=sharing) [[paper1]]({{site.url}}/docs/papers/2020_1.pdf) [[paper2]]({{site.url}}/docs/papers/2020_2.pdf) [[code & demo]](https://github.com/Laknath1996/Real-Time-Hand-Gesture-Recognition-with-TMA-Maps)
 
-<div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div>
+<!-- <div style="text-align: center"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></div> -->
 
+<center>
 <table>
   <tr>
-    <td align="center" valign="top"><img src="{{site.url}}/images/projects1.jpg" width="396" height="300" /></td>
-    <td align="center" valign="top"><img src="{{site.url}}/images/projects6.jpg" width="513" height="300" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/projects1.png" width="396" height="300" /></td>
+    <td align="center" valign="top"><img src="{{site.url}}/images/projects6.png" width="513" height="300" /></td>
   </tr>
     <tr>
     <td align="center">TMA maps</td>
     <td align="center">Active dry-contact sEMG sensors</td>
   </tr>
  </table>
+</center>
 
 * **Developing deep learning algorithms to solve the phase unwrapping problem of Quantity Susceptibility Mappings using MRI. [Research Internship] (Aug - Nov 2018, Aug - Nov 2019)**\\
 Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
