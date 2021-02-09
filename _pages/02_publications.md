@@ -10,12 +10,12 @@ permalink: /publications/
 <u>Ashwin De Silva</u><sup>*</sup>, Malsha V. Perera<sup>*</sup>, Navodini Wijethilake, Saroj Jayasinghe, Nuwan Dayananda, and Anjula De Silva \\
 [[pdf]]({{site.url}}/docs/papers/2020_4.pdf)
 
+### Conference Papers
+
 * **A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping** \\
  Malsha Perera<sup>*</sup>, <u>Ashwin De Silva</u><sup>*</sup>\\
-IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021 (Submitted) \\
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, Canada, 2021 (Accepted)\\
 [[pdf]]({{site.url}}/docs/papers/2020_3.pdf)
-
-### Conference Papers
 
 * **Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms** \\
 Asma Naim, Kithmin Wickramasinghe, <u>Ashwin De Silva</u>, Malsha Perera, Thilina Lalitharatne, and Simon Kappel\\
