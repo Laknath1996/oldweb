@@ -4,11 +4,11 @@ title: About
 permalink: /home/
 ---
 
-*I'm an inquisitive individual who aspires to explore how our brains can inspire machines, in terms of aspects including, but not limited to, intelligence, computation, and perception. Also, I am passionate about improving technologies that enable us to probe complex brain structures and functions, build advanced neural prostheses, and delineate the neurodegenerative disease mechanisms. My academic interests lie on the intersection of machine learning, signal processing, and biomedical engineering.*
+*I aspire to explore how our brains can inspire machine intelligence. To this end, I work on an intersection between machine learning, signal processing, and computational neuroscience. My other research interests includes computer vision, biomedical data science, and neuromorphic computing.*
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
-I am currently working as a Junior Lecturer at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka.
+I would be joining Prof. Joshua Vogeltein's research group ([NeuroData](https://neurodata.io/about/)) at the Johns Hopkins University to pursue my PhD in the Fall of 2021. I am currently working as a Junior Lecturer at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka.
 
 I received my Bachelor's degree from UoM in 2020. I completed my thesis on "Designing a Cost-Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand" with Dr. [Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en) and Dr. [Thilina Lalitharatne](https://scholar.google.com/citations?user=0NvOK1kAAAAJ&hl=en)
 
@@ -16,13 +16,11 @@ In addition to my undergraduate studies, I have completed two research internshi
 
 I have also worked with Dr. [Steffen Bollmann](https://scholar.google.com/citations?user=HmXlj24AAAAJ&hl=en) (Center for Advanced Imaging, University of Queensland, Australia) on exploring the applicability of using fully convolutional networks to unwrap wrapped phase images. 
 
-My primary academic interests lie within **Machine Learning** and **Signal Processing**, together with their applications in **Computational Neuroscience, Neuroengineering** and **Medical Image Analysis**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of intelligence, computation, and perception. Also, I am keen to develop computer vision and signal processing methods to advance the field of medical image analysis. Moreover, I have become interested in research that applies computational methods to model neurodegenerative diseases. 
-
-Reecently, I have adopted a keen interest in **Statistical Signal Processing, Geometric Deep Learning** and **Neuromorphic Computing**.
+My primary academic interests lie within **Machine Learning** (statistical machine learning, Geometric Deep Learning, Computer Vision to be more specific), **Signal Processing** and **Computational Neuroscience**. I am fascinated by work that attempts to bridge the gap between the human brain and machines, especially in terms of intelligence.
 
 During my time at UoM, I worked with **Digital System Design, Analog Electronics** and **Robotics** as well.
 
-In my free time, I like playing the piano, exploring restaurants (especially pizzerias!), and watching Star Wars!
+In my free time, I like playing the piano, exploring restaurants (especially pizzerias!), and watching numerous movies and TV shows involving science fiction, anime, and historical drama!
 
 [[Google Scholar]](https://scholar.google.com/citations?user=xqhwEGIAAAAJ&hl=en) [[CV]]( {{site.url}}/docs/cv/Ashwin_CV.pdf) [[GitHub]](https://github.com/Laknath1996) [[LinkedIn]](http://wordpress.redirectingat.com/?id=725X1342&isjs=1&jv=13.23.5-stackpath&sref=https%3A%2F%2Fashwindesilva.wordpress.com%2F&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashwin-de-silva-6852b14b%2F&xguid=01DNKG5NFSFY3DST6JT71T301Y&xs=1&xtz=-330&xuuid=46c17aa72b7d94c302d6b7ca28f07427&xcust=8982) [[Florey]](https://www.florey.edu.au/science-research/scientist-directory/mr-ashwin-de-silva)
 
