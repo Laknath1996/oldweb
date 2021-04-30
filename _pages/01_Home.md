@@ -8,7 +8,7 @@ permalink: /home/
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
-I would be joining Prof. Joshua Vogeltein's research group ([NeuroData](https://neurodata.io/about/)) at the Johns Hopkins University to pursue my PhD in the Fall of 2021. I am currently working as a Junior Lecturer at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka.
+I would be joining Prof. Joshua Vogelstein's research group ([NeuroData](https://neurodata.io/about/)) at the Johns Hopkins University to pursue my PhD in the Fall of 2021. I am currently working as a Junior Lecturer at the Department of Electronics and Telecommunication Engineering ([ENTC](ent.mrt.ac.lk)) at University of Moratuwa [UoM](http://mrt.ac.lk), Sri Lanka.
 
 I received my Bachelor's degree from UoM in 2020. I completed my thesis on "Designing a Cost-Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand" with Dr. [Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en) and Dr. [Thilina Lalitharatne](https://scholar.google.com/citations?user=0NvOK1kAAAAJ&hl=en)
 
