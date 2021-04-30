@@ -4,7 +4,7 @@ title: About
 permalink: /home/
 ---
 
-*I aspire to explore how our brains can inspire machine intelligence. To this end, I work on an intersection between machine learning, signal processing, and computational neuroscience. My other research interests includes computer vision, biomedical data science, and neuromorphic computing.*
+*I aspire to explore how our brains can inspire machine intelligence. To this end, I work on an intersection between machine learning, signal processing, and computational neuroscience. My other research interests include computer vision, biomedical data science, and neuromorphic computing.*
 
 <div style="text-align: center"><img src="{{site.url}}/images/me1.png" width="200" height="200" /></div>
 
