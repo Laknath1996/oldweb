@@ -54,6 +54,10 @@ Advisor : Dr. Steffen Bollmann (during the internship at CAI in 2018) \\
 Institution : Center for Advanced Imaging, University of Queensland, Australia and the University of Moratuwa, Sri Lanka.\\
 [[paper]]({{site.url}}/docs/papers/2020_3.pdf)
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RS5yPn5KHfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 <div style="text-align: center"><img src="{{site.url}}/images/projects4.png" width="695" height="300" /></div>
 
 * **Developing machine learning and signal processing software to extract interpretable features from high-density multi-electrode array (MEA) signals acquired from in-   vitro neuronal networks, and classify those networks according to the ion-channel mutations they contain. [Research Internship] (Jun - Dec 2018)**\\
