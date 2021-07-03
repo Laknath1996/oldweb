@@ -94,8 +94,8 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 
 ## Selected Talks
 
-* **Landing an Impactful Research Project** 
-IEEE EMBS Student Branch Chapter, University of Moratuwa, Sri Lanka.    
+* **Landing an Impactful Research Project** \\
+IEEE EMBS Student Branch Chapter, University of Moratuwa, Sri Lanka. \\
 [[Slides]]({{site.url}}/docs/talks/kickstarting_projects_2021.pdf)
 
 
